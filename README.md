@@ -1,6 +1,6 @@
 ### Olá, eu sou Bunny Ghost
 
-- 🌱 Estou estudando Python
+- 🌱 Estou estou estudando programação.
 
 
 <div align="center">
@@ -18,5 +18,5 @@
   
 </div>
 
-   ##
-  
+   
+  ##
