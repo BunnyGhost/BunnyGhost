@@ -1,8 +1,5 @@
 ### Olá, eu sou Bunny Ghost
 
-- 🌱 Comecei a estudar programação com o início da pandemia e desde então não parei mais.
-- 🔭 Estou sempre em busca de conhecimento seja em programação ou segurança da informação.
-- ⭐ tenho 18 anos e sou apaixonado por TI
 
 
 <div align="center">
