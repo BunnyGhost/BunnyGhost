@@ -1,7 +1,11 @@
 <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
 
 
-  ### Abaut me...                                                    Visitor                                           
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
+<p align="center">
+
+
+  ### Abaut me...                                                                                               
 ```js
 const Bunny = () => {
   return {
