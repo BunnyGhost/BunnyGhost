@@ -1,6 +1,20 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
 <p align="center">
 
+  ### Abaut me...
+```js
+const matheus = () => {
+  return {
+    pronouns: "He" | "Him",
+    job: "Student",
+    country: "Brazil",
+    bio: "Only god can judge me.",
+    langs: "portuguese and english"
+  }
+}
+```
+
+
 
 # Visitor 
 <p align="center">
