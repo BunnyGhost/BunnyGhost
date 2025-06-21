@@ -9,10 +9,6 @@
 
 
 
- <a href="https://tiktok.com/@hiro_0163"><img src="https://img.shields.io/badge/Tiktok NOME-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@NOME" /></a>
-
-  <img src="https://discord-readme-badge.vercel.app/api?id=5MEUID" alt="Discord" align="right" width=320/>
-
 <div align="center">
   <a href="https://github.com/BunnyGhost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
