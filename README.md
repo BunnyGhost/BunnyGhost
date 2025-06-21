@@ -1,5 +1,7 @@
 ### Olá, eu sou Bunny Ghost
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
+<p align="center">
 
 
 <div align="center">
