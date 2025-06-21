@@ -14,12 +14,6 @@ const Bunny = () => {
 ```
 
 
-# Visitor 
-<p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34">
-</p>
-
-
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -29,9 +23,14 @@ const Bunny = () => {
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyGhost&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-    
   <br/>
 </details>
+
+
+# Visitor 
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34">
+</p>
 
   
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> Crafting 
