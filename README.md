@@ -1,13 +1,4 @@
-```yaml
-name: Emirhan Yavuz
-located_in: Adana, Turkey
-from: Adana
-job: Student
-education: ["High School"]
-company: Tiligor
-currently_learning: ["Python", "HTML"]
-hobbies: ["Photograpy", "Cinema", "Hiking"]
-```
+
 
   ### Abaut me...
 ```js
