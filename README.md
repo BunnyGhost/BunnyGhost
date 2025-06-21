@@ -20,6 +20,16 @@ const Bunny = () => {
 </p>
 
 
+<h2 align="center">Skills </h2>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,git,css,js,python" />
+  </a>
+</p>
+
+
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 
@@ -34,14 +44,7 @@ const Bunny = () => {
 
 
   
-<h2 align="center">Skills </h2>
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,git,css,js,python" />
-  </a>
-</p>
    
   
   ##
