@@ -1,7 +1,11 @@
-### Olá, eu sou Bunny Ghost
-
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
 <p align="center">
+
+
+# Visitor 
+<p align="center">
+<img align="center" alt="count" src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34">
+</p>
 
 
 <div align="center">
