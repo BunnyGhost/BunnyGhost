@@ -1,6 +1,6 @@
 
 
-  ### Abaut me...[Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ### Abaut me...
 ```js
 const matheus = () => {
   return {
