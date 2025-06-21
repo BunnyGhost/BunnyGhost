@@ -2,7 +2,7 @@
 
   ### Abaut me...
 ```js
-const matheus = () => {
+const Bunny = () => {
   return {
     pronouns: "He" | "Him",
     job: "Student",
