@@ -2,9 +2,7 @@
   <p style="margin: 0; font-weight: bold;">Visitor</p>
   <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" width="400" height="400">
 </div>
-
-<h3>About me...</h3>
-
+About me...
 ```js
 const Bunny = () => {
   return {
