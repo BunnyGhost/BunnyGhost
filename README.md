@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/stibZWunTHpRjepFNq/giphy.gif" align="right" width="400" height="400">
 
   ### Abaut me...
 ```js
