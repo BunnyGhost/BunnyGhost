@@ -1,4 +1,4 @@
-<img src="ttps://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
+<img src="ttps://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="40px" height="40">
 
 
 
