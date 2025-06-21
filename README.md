@@ -1,8 +1,7 @@
 <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pickaxe.png" width="40px" /> About Me 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Fallow+me+)](https://git.io/typing-svg)
 
 
   ### Abaut me...                                                                                               
