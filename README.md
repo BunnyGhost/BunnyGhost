@@ -2,7 +2,7 @@
 
 
   ### Abaut me...                                                    Visitor                                           
-js
+```js
 const Bunny = () => {
   return {
     pronouns: "He" | "Him",
@@ -12,7 +12,7 @@ const Bunny = () => {
     langs: "portuguese, english and russian"
   }
 }
-
+```
 
 # Visitor 
 <p align="center">
