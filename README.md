@@ -5,10 +5,10 @@
 const Bunny = () => {
   return {
     pronouns: "He" | "Him",
-    job: "Student",
+    job: "Student / ADM",
     country: "Brazil",
-    bio: "Only god can judge me.",
-    langs: "portuguese and english"
+    bio: "Building, breaking, learning, and repeating 🔁",
+    langs: "portuguese, english and russian"
   }
 }
 ```
