@@ -1,9 +1,8 @@
-<div align="right">
-  <p style="margin: 0; font-weight: bold;">Visitor</p>
-  <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" width="400" height="400">
-</div>
-About me...
-```js
+<img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
+
+
+  ### Abaut me...                                                    Visitor                                           
+js
 const Bunny = () => {
   return {
     pronouns: "He" | "Him",
@@ -13,7 +12,6 @@ const Bunny = () => {
     langs: "portuguese, english and russian"
   }
 }
-
 
 
 # Visitor 
