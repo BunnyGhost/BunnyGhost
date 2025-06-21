@@ -1,9 +1,4 @@
-<p align="left">
-<a href="[https://github.com/takomlii](https://count.getloli.com/get/@:BunnyGhost?theme=rule34)">
-<p align="center">
-<img align="center" alt="count" src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34">
-</p>
-</p>
+
 
   ### Abaut me...
 ```js
