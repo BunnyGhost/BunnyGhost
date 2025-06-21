@@ -2,7 +2,8 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Abaut+me...+)](https://git.io/typing-svg)                                                                                       
+
+#Abaut me...                                                                           
 ```js
 const Bunny = () => {
   return {
