@@ -15,27 +15,31 @@ const Bunny = () => {
 }
 ```
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-  <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
-    
-  magem GIF
-    <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" alt="count" width="250" style="border-radius: 10px;" />
-
-  statísticas GitHub 
-    <div>
-      <a href="https://github.com/BunnyGhost">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      </a>
-      <a href="https://github.com/BunnyGhost">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyGhost&layout=compact&langs_count=7&theme=dracula"/>
-      </a>
-    </div>
-
-  </div>
-  <br/>
+<details>
+  <summary>
+    <table>
+      <tr>
+        <td>
+          <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" alt="profile gif" width="120">
+        </td>
+        <td style="padding-left: 15px; vertical-align: top;">
+          <strong>🎯 Focus</strong><br>
+          <ul>
+            <li>Go to college: Systems Analysis and Development</li>
+            <li>Studying at <strong>Uninter University</strong></li>
+            <li>At least good with <strong>Javascript, HTML, CSS, Python, Node.js</strong></li>
+            <li>Studying design with Figma</li>
+            <li>Mainly focused on making WhatsApp Bots</li>
+          </ul>
+          <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Fallow+me+" alt="Typing SVG">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </summary>
 </details>
+
 
 
 
