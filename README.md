@@ -15,7 +15,6 @@ const Bunny = () => {
 }
 ```
 
-<details>
   <summary>
     <table>
       <tr>
@@ -38,9 +37,6 @@ const Bunny = () => {
       </tr>
     </table>
   </summary>
-</details>
-
-
 
 
 
