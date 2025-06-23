@@ -15,22 +15,28 @@ const Bunny = () => {
 }
 ```
 
-# Visitor 
-<p align="center">
-<img align="center" alt="count" src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif">
-</p>
-
-
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
 
-<div align="center">
-  <a href="https://github.com/BunnyGhost">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyGhost&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+    
+  magem GIF
+    <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" alt="count" width="250" style="border-radius: 10px;" />
+
+  statísticas GitHub 
+    <div>
+      <a href="https://github.com/BunnyGhost">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </a>
+      <a href="https://github.com/BunnyGhost">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyGhost&layout=compact&langs_count=7&theme=dracula"/>
+      </a>
+    </div>
+
+  </div>
   <br/>
 </details>
+
 
 
 
