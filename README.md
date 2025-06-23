@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/YlsM.gif" align="right" width="300" height="200">
+<img src="https://i.gifer.com/YlsM.gif" align="right" width="350" height="250">
 
 
 
