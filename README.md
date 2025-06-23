@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" align="right" width="250" height="250">
+<img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
 
 
 
