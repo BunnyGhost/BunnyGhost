@@ -16,7 +16,7 @@ const Bunny = () => {
 ```
 
 <details>
-  <summary><b>👨‍💻 Sobre Mim</b></summary>
+  <summary><b>More me</b></summary>
   <br>
   <table>
     <tr>
@@ -26,11 +26,11 @@ const Bunny = () => {
       <td style="padding-left: 15px; vertical-align: top;">
         <strong>🎯 Focus</strong><br>
         <ul>
-          <li>Go to college: <strong>Systems Analysis and Development</strong></li>
-          <li>Studying at <strong>Uninter University</strong></li>
-          <li>At least good with <strong>JavaScript, HTML, CSS, Python, Node.js</strong></li>
+          <li>Go to college: <strong>Computer Science</strong></li>
+          <li>Studying at <strong>University</strong></li>
+          <li>At least good with <strong>JavaScript, HTML, CSS, Python, Node.js and more...</strong></li>
           <li>Studying design with <strong>Figma</strong></li>
-          <li>Mainly focused on making <strong>WhatsApp Bots</strong></li>
+          <li>Mainly focused on making <strong>WhatsApp Bots and Security...</strong></li>
         </ul>
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Follow+me+" alt="Typing SVG">
