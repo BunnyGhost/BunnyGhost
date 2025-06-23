@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" align="right" width="220" height="220">
+<img src="https://media.tenor.com/25ykirk3P4YAAAAM/oz-oz-yarimasu.gif" align="right" width="250" height="250">
 
 
 
