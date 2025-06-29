@@ -26,8 +26,10 @@ const Bunny = () => {
   <br>
   <table>
     <tr>
-      
-<td><img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-girl-gif-6.gif" alt="anime girl gif" width="200" height="200" style="width:200px;height:200px;object-fit:cover;"></td>
+   
+<td>
+  <img src="https://media1.tenor.com/m/FqQImRtClkoAAAAC/vergonha.gif" alt="profile gif" width="352" height="464" style="width:352px;height:464px;object-fit:cover">
+</td>
         <strong>🎯 Focus</strong><br>
         <ul>
           <li>Go to college: <strong>Computer Science</strong></li>
