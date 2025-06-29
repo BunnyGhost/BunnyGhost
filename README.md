@@ -17,7 +17,7 @@ const Bunny = () => {
 
 # Welcome visitor 
 <p align="center">
-  <img src="https://pa1.aminoapps.com/6838/56acabc3129f348604eae5ed848a50f9de1cb68b_00.gif" style="max-width:100%; height:auto;" alt="count">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" style="max-width:100%; height:auto;" alt="count">
 </p>
 
 
@@ -27,7 +27,7 @@ const Bunny = () => {
   <table>
     <tr>
  <td>
-        <img src="https://i.pinimg.com/originals/b1/57/c6/b157c62a5c4c23a7084426108dcc0f8b.gif" alt="profile gif" width="120">
+        <img src="pa1.aminoapps.com/6838/56acabc3129f348604eae5ed848a50f9de1cb68b_00.gif" alt="profile gif" width="120">
       </td>
       <td style="padding-left: 15px; vertical-align: top;">
         <strong>🎯 Focus</strong><br>
