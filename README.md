@@ -17,7 +17,7 @@ const Bunny = () => {
 
 # Welcome visitor 
 <p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" width="498" height="278" alt="count">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" style="max-width:100%; height:auto;" alt="count">
 </p>
 
 
