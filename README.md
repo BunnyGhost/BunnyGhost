@@ -28,7 +28,7 @@ const Bunny = () => {
     <tr>
       
 <td>
-  <img src="https://media1.tenor.com/m/FqQImRtClkoAAAAC/vergonha.gif" alt="profile gif" width="352" height="464" style="width:352px;height:464px;object-fit:cover">
+  <img src="https://media.tenor.com/eeur7VuCbmkAAAAj/anime-rikka.gif" alt="profile gif" width="352" height="464" style="width:352px;height:464px;object-fit:cover">
 </td>
       <td style="padding-left: 15px; vertical-align: top;">
         <strong>🎯 Focus</strong><br>
