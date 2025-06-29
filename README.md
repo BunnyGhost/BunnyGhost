@@ -27,7 +27,7 @@ const Bunny = () => {
   <table>
     <tr>
       
-<td><img src="https://media1.tenor.com/m/FqQImRtClkoAAAAC/vergonha.gif" alt="profile gif" width="176" height="232" style="width:176px;height:232px;object-fit:cover;"></td>
+<td><img src="https://www.gifcen.com/wp-content/uploads/2022/06/anime-girl-gif-6.gif" alt="profile gif" width="176" height="232" style="width:176px;height:232px;object-fit:cover;"></td>
       <td style="padding-left: 15px; vertical-align: top;">
         <strong>🎯 Focus</strong><br>
         <ul>
