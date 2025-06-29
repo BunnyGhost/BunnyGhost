@@ -38,7 +38,7 @@ const Bunny = () => {
           <li>Studying design with <strong>Figma</strong></li>
           <li>Mainly focused on making <strong>WhatsApp Bots</strong></li>
         </ul>
-        <a href="https://git.io/typing-svg">
+        <a href="https://github.com/BunnyGhost">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Follow+me+" alt="Typing SVG">
         </a>
       </td>
