@@ -27,12 +27,8 @@ const Bunny = () => {
   <table>
     <tr>
       
-<td style="width: 352px; height: 464px; padding: 5%; box-sizing: border-box; text-align: center;">
-  <img 
-    src="https://media1.tenor.com/m/FqQImRtClkoAAAAC/vergonha.gif" 
-    alt="profile gif" 
-    style="width: 90%; height: 90%; object-fit: contain;"
-  >
+<td>
+  <img src="https://media1.tenor.com/m/FqQImRtClkoAAAAC/vergonha.gif" alt="profile gif" width="252" height="364" style="width:352px;height:464px;object-fit:cover">
 </td>
       <td style="padding-left: 15px; vertical-align: top;">
         <strong>🎯 Focus</strong><br>
