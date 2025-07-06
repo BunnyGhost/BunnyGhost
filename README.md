@@ -39,6 +39,7 @@ const Bunny = () => {
           <li>At least good with <strong>JavaScript, HTML, CSS, Python, Node.js, Bash</strong></li>
           <li>Learning UI/UX design with <strong>Figma</strong></li>
           <li>Mainly focused on making <strong>WhatsApp Bots</strong></li>
+            <li>Tech enthusiast passionate about cybersecurity and good coffee.</li>
         </ul>
         <a href="https://github.com/BunnyGhost">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Follow+me+" alt="Typing SVG">
