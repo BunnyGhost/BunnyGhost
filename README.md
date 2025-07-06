@@ -1,11 +1,9 @@
-<div align="center">
+Deixe tudo alinhado <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right">
 
-  <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" alt="Visitor Count">
 
-  <h3>About Me...</h3>
 
-  <pre>
-  <code>
+### Abaut me...   
+```js
 const Bunny = () => {
   return {
     pronouns: "He" | "Him",
@@ -15,16 +13,12 @@ const Bunny = () => {
     langs: "portuguese, english and russian"
   }
 }
-  </code>
-  </pre>
+```
 
-  <h1>Welcome Visitor</h1>
-
-  <p>
-    <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" style="max-width:100%; height:auto;" alt="Welcome Gif">
-  </p>
-
-</div>
+# Welcome visitor 
+<p align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" style="max-width:100%; height:auto;" alt="count">
+</p>
 
 
 <details>
