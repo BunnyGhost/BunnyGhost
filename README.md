@@ -37,7 +37,7 @@ const Bunny = () => {
           <li>Go to college: <strong>Computer Science</strong></li>
           <li>Studying at <strong>University</strong></li>
           <li>At least good with <strong>JavaScript, HTML, CSS, Python, Node.js, Bash</strong></li>
-          <li>Studying design with <strong>Figma</strong></li>
+          <li>Learning UI/UX design with <strong>Figma</strong></li>
           <li>Mainly focused on making <strong>WhatsApp Bots</strong></li>
         </ul>
         <a href="https://github.com/BunnyGhost">
