@@ -7,10 +7,10 @@
 const Bunny = () => {
   return {
     pronouns: "He" | "Him",
-    job: "Student / ADM",
+    job: "Student",
     country: "Brazil",
     bio: "Building, breaking, learning, and repeating 🔁",
-    langs: "portuguese, english and russian"
+    langs: ["pt", "en", "ru"]
   }
 }
 ```
