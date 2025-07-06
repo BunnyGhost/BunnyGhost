@@ -1,4 +1,4 @@
-Deixe tudo alinhado <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right">
+<img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right">
 
 
 
