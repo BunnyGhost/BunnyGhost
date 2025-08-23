@@ -56,7 +56,7 @@ const Bunny = () => {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,git,css,js,python,git,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,python,bash,git,linux" />
   </a>
 </p>
 
