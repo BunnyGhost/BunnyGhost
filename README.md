@@ -72,11 +72,10 @@ const Bunny = () => {
 <details> 
   <summary><b>💻 GitHub Stats & Hack Platforms</b></summary>
 
-
-![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BunnyGhost&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BunnyGhost&theme=tokyonight&hide_border=true)
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BunnyGhost&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-defcon27.vercel.app/api?username=BunnyGhost&theme=tokyonight&hide_border=true)
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BunnyGhost&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BunnyGhost&theme=tokyonight)
+
 
   
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2808595)
