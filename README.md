@@ -1,7 +1,15 @@
+### About me...
 
-### Abaut me...  
-
-<img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" align="right" width="400" height="400">
+<p align="right">
+  <a href="https://discord.com/users/830609133165608960">
+    <img 
+      src="https://lanyard.cnrad.dev/api/830609133165608960?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true" 
+      alt="Discord Presence" 
+      width="40%" 
+      align="right"
+    >
+  </a>
+</p>
 
 ```js
 const Bunny = () => {
@@ -17,11 +25,12 @@ const Bunny = () => {
 
 
 # Welcome visitor 
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-224.gif" style="max-width:100%; height:auto;" alt="count">
-</p>
-
-
+<div>
+  <img
+    src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34"
+    alt="visitor counter"
+    style="max-width:250px; height:auto;">
+</div>
 <details>
   <summary><b>More me</b></summary>
   <br>
@@ -42,7 +51,10 @@ const Bunny = () => {
             <li>Tech enthusiast passionate about cybersecurity and good <strong>coffee.</strong></li>
         </ul>
         <a href="https://github.com/BunnyGhost">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A2CF7E1&center=true&vCenter=true&width=435&lines=Follow+me+" alt="Typing SVG">
+          <p align="center">
+ <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=888888&center=true&vCenter=true&width=700&lines=Follow+me"/>
+</p>
         </a>
       </td>
     </tr>
