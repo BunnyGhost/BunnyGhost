@@ -24,6 +24,10 @@ const Bunny = () => {
 ```
 
 
+
+
+
+
 # Welcome visitor 
 <div>
   <img
@@ -82,6 +86,8 @@ const Bunny = () => {
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%230077cc?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BunnyGhost)
 
 </details>
+
+<img src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Wallpaper" width="100%" />
 
  ##
   
