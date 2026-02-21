@@ -61,10 +61,7 @@ const Bunny = () => {
   </table>
 </details>
 
-
-
   <h2 align="center">Skills </h2>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -75,21 +72,16 @@ const Bunny = () => {
 <details> 
   <summary><b>💻 GitHub Stats & Hack Platforms</b></summary>
 
-<div align="center">
-  <a href="https://github.com/BunnyGhost">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunnyGhost&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/BunnyGhost">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunnyGhost&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BunnyGhost&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BunnyGhost&theme=tokyonight&hide_border=true)
+
+
   
 [![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2808595)
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-%230077cc?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BunnyGhost)
 
 </details>
-
-
 
 
    
