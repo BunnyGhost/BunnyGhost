@@ -22,19 +22,15 @@ const Bunny = () => {
   }
 }
 ```
-
-
-
-
-
-
 # Welcome visitor 
+
 <div>
   <img
     src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34"
     alt="visitor counter"
     style="max-width:250px; height:auto;">
 </div>
+
 <details>
   <summary><b>More me</b></summary>
   <br>
