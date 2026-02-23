@@ -93,10 +93,10 @@ const Bunny = () => {
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/pacman-contribution-graph.svg">
 </picture>
 
-##
+#
 
-<img src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/snake.svg" alt="Snake animation" /> -->
 
-###
+
 
 
