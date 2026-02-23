@@ -10,38 +10,21 @@ on:
     branches:
     - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Generate pacman-contribution-graph.svg
+      - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      - name: Create output branch if it doesn't exist
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          if ! git rev-parse --verify origin/output > /dev/null 2>&1; then
-            git checkout --orphan output
-            git rm -rf .
-            git commit --allow-empty -m "Initial commit on output branch"
-            git push origin output
-          fi
-        continue-on-error: true
 
-      - name: Push pacman-contribution-graph.svg to the output branch
+      - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
