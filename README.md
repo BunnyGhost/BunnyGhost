@@ -94,3 +94,9 @@ const Bunny = () => {
 </picture>
 
 ##
+
+<img src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/snake.svg" alt="Snake animation" />
+
+###
+
+
