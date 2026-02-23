@@ -86,11 +86,13 @@ const Bunny = () => {
 
 <img src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Wallpaper" width="100%" />
 
-<!--<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
+
+###
 ##
 
 <img src="https://raw.githubusercontent.com/BunnyGhost/BunnyGhost/output/snake.svg" alt="Snake animation" /> 
