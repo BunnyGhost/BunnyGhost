@@ -254,10 +254,10 @@ Request timeout for icmp_seq 0 — too busy hacking.
 <a href="https://tryhackme.com/p/BunnyGhost"><img src="https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=C11111"/></a>
 &nbsp;
 
----
 
 </details>
 
+---
 <!-- ══════════ ABOUT ME ══════════ -->
 
 ## `[ABOUT ME]`
@@ -322,6 +322,8 @@ Request timeout for icmp_seq 0 — too busy hacking.
 ---
 
 </details>
+
+---
 
 <!-- ══════════ COMMIT PACMAN ══════════ -->
 
