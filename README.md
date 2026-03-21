@@ -355,11 +355,12 @@ root@bunnyghost:~# ./scan_profile.sh
 
 ```
 [+] visitor logged
-[+] no threats detected
+[+] no indicators of compromise
 
 [~] issues detected:
     → too much coffee
     → not enough sleep
+    → late night debugging sessions
 
 [!] warning: following this profile may accelerate your programming skills.
 
