@@ -17,10 +17,10 @@
 $ whoami && uname -a
 ```
 
-```
+<pre>
 bunnyghost
 Linux arch 6.x.x-arch1 #1 SMP x86_64 GNU/Linux
-```
+</pre>
 
 ```bash
 $ cat /etc/bunny.conf
@@ -44,11 +44,10 @@ $ cat /etc/bunny.conf
 ```bash
 $ uptime && echo "coffee_level: CRITICAL"
 ```
-
-```
+<pre>
 Always learning — 0 days without incident.
 coffee_level: CRITICAL ☕
-```
+</pre>
 
 </td>
 <td width="44%" valign="top" align="center">
@@ -59,15 +58,13 @@ coffee_level: CRITICAL ☕
 
 <br>
 
-```
+```bash
 root@bunnyghost:~# tail -f /var/log/visitors.log
 ```
-
 <img src="https://count.getloli.com/get/@:BunnyGhost?theme=rule34" alt="visitor count">
-
 <br>
 
-```
+```bash
 root@bunnyghost:~# cat /proc/social
 ```
 
@@ -76,13 +73,14 @@ root@bunnyghost:~# cat /proc/social
 
 <br>
 
-```
+```bash
 root@bunnyghost:~# ping -c1 reality
 ```
-```
+
+<pre>
 PING reality (127.0.0.1): 56 bytes
 Request timeout for icmp_seq 0 — too busy hacking.
-```
+</pre>
 
 </td>
 </tr></table>
