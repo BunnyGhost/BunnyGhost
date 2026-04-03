@@ -17,10 +17,10 @@
 $ whoami && uname -a
 ```
 
-<pre>
+```bash
 bunnyghost
 Linux arch 6.x.x-arch1 #1 SMP x86_64 GNU/Linux
-</pre>
+```
 
 ```bash
 $ cat /etc/bunny.conf
