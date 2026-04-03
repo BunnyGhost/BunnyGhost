@@ -26,17 +26,17 @@ Linux arch 6.x.x-arch1 #1 SMP x86_64 GNU/Linux
 $ cat /etc/bunny.conf
 ```
 
-```js
+```json
 {
   "user"      : "BunnyGhost",
   "pronouns"  : "He/Him",
   "country"   : "Brazil 🇧🇷",
-  "job"       : "Student",
-  "bio"       : "Building, breaking, learning, repeating 🔁",
+  "job"       : "Web Developer",
+  "bio"       : "Too curious to stop, too stubborn to quit.",
   "langs"     : ["pt-BR", "en", "ru"],
   "focus"     : ["Cybersecurity", "Bots", "UI/UX"],
   "os"        : "Arch Linux btw 🐧",
-  "shell"     : "zsh + tmux + neovim",
+  "shell"     : "zsh + tmux + lvim",
   "coffee"    : "CRITICAL_DEPENDENCY ☕"
 }
 ```
@@ -97,9 +97,9 @@ Request timeout for icmp_seq 0 — too busy hacking.
 
 <details>
 <summary align="center"><b><code>> $ cat Arsenal</code></b></summary>
+</summary>
 
 ## `[ 🕷️ ARSENAL ]`
-
 <table width="100%">
   <tr>
     <td align="center" width="150px"><sub><code>// CORE</code></sub></td>
@@ -171,8 +171,8 @@ Request timeout for icmp_seq 0 — too busy hacking.
       <img src="https://img.shields.io/badge/WSL2_Ubuntu-0d0d0d?style=flat-square&logo=ubuntu&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/tmux-0d0d0d?style=flat-square&logo=tmux&logoColor=39d353"/>
       <img src="https://img.shields.io/badge/zsh-0d0d0d?style=flat-square&logo=zsh&logoColor=00ff41"/>
-      <img src="https://img.shields.io/badge/Neovim-0d0d0d?style=flat-square&logo=neovim&logoColor=39d353"/>
-     <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=flat-square&logo=visual-studio-code&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/LunarVim-0d0d0d?style=flat-square&logo=neovim&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/VS_Code-0d0d0d?style=flat-square&logo=visual-studio-code&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Obsidian-0d0d0d?style=flat-square&logo=obsidian&logoColor=39d353"/>
     </td>
   </tr>
@@ -270,18 +270,69 @@ Request timeout for icmp_seq 0 — too busy hacking.
 
 <br>
 
-| field | value | field | value |
+| Field | Value | Field | Value |
 |---|---|---|---|
 | 💡 Learning | Pentesting fundamentals | 🎵 Coding OST | Phonk & Lo-fi |
-| 🛠️ Building | WhatsApp Bot framework | 🖥️ Setup | Arch + Neovim + tmux |
+| 🛠️ Building | WhatsApp Bot framework | 🖥️ Setup | Arch + LunarVim + tmux |
 | 🎯 Next goal | First CTF competition | ☕ Without coffee | segfault (core dumped) |
 | 🌐 Languages | pt-BR · English · Русский | 💤 Sleep schedule | undefined |
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=00FF41&center=true&vCenter=true&width=520&lines=Curiosity+drives+everything;Learning+never+stops)
-
+| 🎬 Movies | Horror | 🍥 Anime | Yes |
+| 🎮 Games | FPS · RPG | 🧟 Horror Games | Yes |
+| 🍕 Favorite Food | Pizza | 🌧️ Weather | Cold · Rainy |
+| 📚 Books | Programming | 🔐 Field | InfoSec & Tech |
 </div>
+
+<img src="https://i.pinimg.com/originals/60/4e/dc/604edcc2dcce7e8b23fb20277a0af03b.gif" width="50%"/>
+
+<table>
+<tr>
+<td>
+
+<pre>
+        -#. #
+        @###
+     -######
+    @#########
+   =##.  .#####
+   ##      ## ##
+   ##       ## #
+   ##       @###
+   ##.        ###
+    ##%       ##-
+     -##%    -*
+      :*##+
+        :*#*
+          -#
+           @
+</pre>
+
+</td>
+<td>
+
+
+
+  ```bash
+root@bunnyghost:~# fastfetch
+```
+
+<pre>
+Personality......: Curious, stubborn
+Hobbies..........: Games, horror, programming, CTFs
+Favorite Food....: Pizza
+Weather Mood.....: Cold / Rainy
+
+Status
+------
+> Too curious to stop,
+> too stubborn to quit.
+> If it breaks, I learn.
+> If I learn, I improve.
+> If I improve, I repeat.
+</pre>       
+
+</td>
+</tr>
+</table>
 
 
 </details>
@@ -383,4 +434,4 @@ root@bunnyghost:~# exit 0
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=120&section=footer&animation=twinkling)
-
+```
