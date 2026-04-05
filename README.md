@@ -221,28 +221,35 @@ Request timeout for icmp_seq 0 — too busy hacking.
 <!-- ══════════ CAPABILITY MATRIX ══════════ -->
 
 ### `[ 💀 SECURITY OPERATIONS — CAPABILITY MATRIX ]`
-```
-╔════════════════════════════════════════════════════════════════════╗
-║  root@bunnyghost:~# ./capability_matrix.sh                         ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  [✓] Reconnaissance        ███████████████████░   95%  OPERATIONAL ║
-║  [✓] Enumeration           ███████████████████░   95%  OPERATIONAL ║
-║  [~] Exploitation          █████████████████░░░   85%  ACTIVE      ║
-║  [~] Privilege Escalation  ████████████████░░░░   80%  ACTIVE      ║
-║  [~] Lateral Movement      ███████████████░░░░░   75%  ACTIVE      ║
-║  [~] Persistence           ██████████████░░░░░░   70%  ACTIVE      ║
-║  [~] Post-Exploitation     ██████████████░░░░░░   70%  ACTIVE      ║
-║  [~] Detection Evasion     ████████████░░░░░░░░   60%  ADVANCING   ║
-║  [ ] Reverse Engineering   ██████░░░░░░░░░░░░░░   30%  LEARNING    ║
-║  [ ] Digital Forensics     █████░░░░░░░░░░░░░░░   25%  LEARNING    ║
-║  [ ] Advanced Research     ░░░░░░░░░░░░░░░░░░░░    0%  NEXT_PHASE  ║
-║                                                                    ║
-╠════════════════════════════════════════════════════════════════════╣
-║  OPERATOR: bunnyghost  │  PHASE: offensive_ops                     ║
-╚════════════════════════════════════════════════════════════════════╝
-```
 
+<table>
+<tr>
+<td>
+  
+```bash
+root@bunnyghost:~# ./capability_matrix.sh
+```
+  
+<pre>
+Reconnaissance.......: ███████████████████░  95%  [OPERATIONAL]
+Enumeration..........: ███████████████████░  95%  [OPERATIONAL]
+Exploitation.........: █████████████████░░░  85%  [ACTIVE]
+Privilege Escalation.: ████████████████░░░░  80%  [ACTIVE]
+Lateral Movement.....: ███████████████░░░░░  75%  [ACTIVE]
+Persistence..........: ██████████████░░░░░░  70%  [ACTIVE]
+Post-Exploitation....: ██████████████░░░░░░  70%  [ACTIVE]
+Detection Evasion....: ████████████░░░░░░░░  60%  [ADVANCING]
+Reverse Engineering..: ██████░░░░░░░░░░░░░░  30%  [LEARNING]
+Digital Forensics....: █████░░░░░░░░░░░░░░░  25%  [LEARNING]
+Advanced Research....: ░░░░░░░░░░░░░░░░░░░░   0%  [NEXT_PHASE]
+
+Operator.: bunnyghost
+Phase....: offensive_ops
+</pre>
+
+</td>
+</tr>
+</table>
 <!-- ══════════ HACK PLATFORMS ══════════ -->
 
 ## `[ 🚩 HACK PLATFORMS ]`
@@ -407,7 +414,7 @@ Status
 root@bunnyghost:~# ./scan_profile.sh
 ```
 
-```
+<pre>
 [+] visitor logged
 [+] no indicators of compromise
 
@@ -419,7 +426,7 @@ root@bunnyghost:~# ./scan_profile.sh
 [!] warning: following this profile may accelerate your programming skills.
 
 root@bunnyghost:~# exit 0
-```
+</pre>
 
 </td>
 </tr>
