@@ -231,18 +231,18 @@ root@bunnyghost:~# ./capability_matrix.sh
 ```
   
 <pre>
-Reconnaissance.......: ███████████████████░  95%  [OPERATIONAL]
-Enumeration..........: ███████████████████░  95%  [OPERATIONAL]
-Exploitation.........: █████████████████░░░  85%  [ACTIVE]
-Privilege Escalation.: ████████████████░░░░  80%  [ACTIVE]
-Lateral Movement.....: ███████████████░░░░░  75%  [ACTIVE]
-Persistence..........: ██████████████░░░░░░  70%  [ACTIVE]
-Post-Exploitation....: ██████████████░░░░░░  70%  [ACTIVE]
-Detection Evasion....: ████████████░░░░░░░░  60%  [ADVANCING]
-Reverse Engineering..: ██████░░░░░░░░░░░░░░  30%  [LEARNING]
-Digital Forensics....: █████░░░░░░░░░░░░░░░  25%  [LEARNING]
-Advanced Research....: ░░░░░░░░░░░░░░░░░░░░   0%  [NEXT_PHASE]
-
+[+] Reconnaissance       : ▰▰▰▰▰▰▰▰▰▱  95%  (OPERATIONAL)
+[+] Enumeration          : ▰▰▰▰▰▰▰▰▰▱  95%  (OPERATIONAL)
+[+] Exploitation         : ▰▰▰▰▰▰▰▰▰▱  85%  (ACTIVE)
+[+] Privilege Escalation : ▰▰▰▰▰▰▰▰▱▱  80%  (ACTIVE)
+[+] Lateral Movement     : ▰▰▰▰▰▰▰▰▱▱  75%  (ACTIVE)
+[+] Persistence          : ▰▰▰▰▰▰▰▱▱▱  70%  (ACTIVE)
+[+] Post-Exploitation    : ▰▰▰▰▰▰▰▱▱▱  70%  (ACTIVE)
+[+] Detection Evasion    : ▰▰▰▰▰▰▱▱▱▱  60%  (ADVANCING)
+[+] Reverse Engineering  : ▰▰▰▱▱▱▱▱▱▱  30%  (LEARNING)
+[+] Digital Forensics    : ▰▰▱▱▱▱▱▱▱▱  25%  (LEARNING)
+[+] Advanced Research    : ▰▱▱▱▱▱▱▱▱▱   0%  (LOCKED)
+  
 Operator.: bunnyghost
 Phase....: offensive_ops
 </pre>
