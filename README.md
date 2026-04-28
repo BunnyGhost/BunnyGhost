@@ -31,7 +31,7 @@ $ cat /etc/bunny.conf
   "user"      : "BunnyGhost",
   "pronouns"  : "He/Him",
   "country"   : "Brazil 🇧🇷",
-  "job"       : "Web Developer",
+  "job"       : "Full Stack Web Dev",
   "bio"       : "Too curious to stop, too stubborn to quit.",
   "langs"     : ["pt-BR", "en", "ru"],
   "focus"     : ["Cybersecurity", "Bots", "UI/UX"],
@@ -277,14 +277,12 @@ Phase....: offensive_ops
 
 | Field | Value | Field | Value |
 |---|---|---|---|
-| 💡 Learning | Pentesting fundamentals | 🎵 Coding OST | Phonk & Lo-fi |
+| 💡 Learning | Offensive Security | 🎵 Coding OST | Phonk & Lo-fi |
 | 🛠️ Building | WhatsApp Bot framework | 🖥️ Setup | Arch + LunarVim + tmux |
-| 🎯 Next goal | First CTF competition | ☕ Without coffee | segfault (core dumped) |
-| 🌐 Languages | pt-BR · English · Русский | 💤 Sleep schedule | undefined |
-| 🎬 Movies | Horror | 🍥 Anime | Yes |
-| 🎮 Games | FPS · RPG | 🧟 Horror Games | Yes |
-| 🍕 Favorite Food | Pizza | 🌧️ Weather | Cold · Rainy |
-| 📚 Books | Programming | 🔐 Field | InfoSec & Tech |
+| 🎯 Next goal | CVE with my name on it | ☕ Without coffee | segfault (core dumped) |
+| 🌐 Languages | pt-BR · English · Русский | 💤 Sleep schedule | undefined behavior |
+| 🎮 Games | FPS · RPG | 📚 Books | Tech & Hacking |
+| ♟️ Chess | e4 and pray | 💀 Error handling | just reboot
 </div>
 
 <img src="https://i.pinimg.com/originals/60/4e/dc/604edcc2dcce7e8b23fb20277a0af03b.gif" width="50%"/>
