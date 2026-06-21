@@ -359,13 +359,9 @@ Status
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BunnyGhost&hide_border=true&background=0d0d0d&stroke=00ff41&ring=39d353&fire=00ff41&currStreakLabel=00ff41&sideLabels=39d353&dates=a0ffb0&sideNums=00ff41&currStreakNum=ffffff" width="49%"/>
 
 <!-- ROW 2 — 32% + 32% + 32% -->
-<img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BunnyGhost&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=a0ffb0&layout=donut&langs_count=8" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BunnyGhost&theme=merko&utcOffset=-3" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BunnyGhost&theme=merko" width="32%"/>
-
-<!-- ROW 3 — 98% full width -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BunnyGhost&theme=merko" width="98%"/>
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=BunnyGhost&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=a0ffb0&layout=compact&langs_count=8" width="49%"/>
+</div>
 
 <!-- ══════════ ACTIVITY GRAPH ══════════ -->
 
