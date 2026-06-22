@@ -269,21 +269,42 @@ Phase....: offensive_ops
 <details>
 <summary align="center"><b><code>> cat /home/bunny/about_me.txt — [ expand ]</code></b></summary>
 <br>
+
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.tenor.com/WrOlPBLlU9wAAAAM/anime-rikka-finger-spin.gif" width="150"/>
+      </td>
+      <td>
 
-<img src="https://media.tenor.com/WrOlPBLlU9wAAAAM/anime-rikka-finger-spin.gif" width="150"/>
-
-<br>
-
-| Field | Value | Field | Value |
-|---|---|---|---|
-| 💡 Learning | Offensive Security | 🎵 Coding OST | Phonk & Lo-fi |
-| 🛠️ Building | WhatsApp Bot framework | 🖥️ Setup | Arch + LunarVim + tmux |
-| 🎯 Next goal | CVE with my name on it | ☕ Without coffee | segfault (core dumped) |
-| 🌐 Languages | pt-BR · English · Русский | 💤 Sleep schedule | undefined behavior |
-| 🎮 Games | FPS · RPG | 📚 Books | Tech & Hacking |
-| ♟️ Chess | e4 and pray | 💀 Error handling | just reboot
-</div>
+```json
+{
+  {
+  "profile": {
+    "💡 learning": "Offensive Security",
+    "🛠️ building": "WhatsApp Bot framework",
+    "🎯 next_goal": "CVE with my name on it"
+  },
+  "preferences": {
+    "🖥️ setup": "Arch + LunarVim + tmux",
+    "🎵 coding_ost": "Phonk & Lo-fi",
+    "📚 books": "Tech & Hacking",
+    "🎮 games": ["FPS", "RPG"],
+    "♟️ chess": "e4 and pray"
+  },
+  "system_status": {
+    "🌐 languages": ["pt-BR", "English", "Русский"],
+    "☕ without_coffee": "segfault (core dumped)",
+    "💤 sleep_schedule": "undefined behavior",
+    "💀 error_handling": "just reboot"
+  }
+}
+```
+  </td>
+</tr>
+</table>
+</div> 
 
 <img src="https://i.pinimg.com/originals/60/4e/dc/604edcc2dcce7e8b23fb20277a0af03b.gif" width="50%"/>
 
