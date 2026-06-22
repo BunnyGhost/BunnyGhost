@@ -270,17 +270,15 @@ Phase....: offensive_ops
 <summary align="center"><b><code>> cat /home/bunny/about_me.txt — [ expand ]</code></b></summary>
 <br>
 
+
 <div align="center">
+<img src="https://media.tenor.com/WrOlPBLlU9wAAAAM/anime-rikka-finger-spin.gif" width="150"/>
   <table>
     <tr>
-      <td>
-        <img src="https://media.tenor.com/WrOlPBLlU9wAAAAM/anime-rikka-finger-spin.gif" width="150"/>
-      </td>
-      <td>
-
+ <td>
+   
 ```json
 {
-  {
   "profile": {
     "💡 learning": "Offensive Security",
     "🛠️ building": "WhatsApp Bot framework",
@@ -301,17 +299,15 @@ Phase....: offensive_ops
   }
 }
 ```
+
   </td>
 </tr>
 </table>
 </div> 
 
-<img src="https://i.pinimg.com/originals/60/4e/dc/604edcc2dcce7e8b23fb20277a0af03b.gif" width="50%"/>
-
 <table>
 <tr>
 <td>
-
 <pre>
         -#. #
         @###
@@ -329,12 +325,9 @@ Phase....: offensive_ops
           -#
            @
 </pre>
-
 </td>
 <td>
-
-
-
+  
   ```bash
 root@bunnyghost:~# fastfetch
 ```
@@ -344,7 +337,6 @@ Personality......: Curious, stubborn
 Hobbies..........: Games, horror, programming, CTFs
 Favorite Food....: Pizza
 Weather Mood.....: Cold / Rainy
-
 Status
 ------
 > Too curious to stop,
@@ -352,12 +344,11 @@ Status
 > If it breaks, I learn.
 > If I learn, I improve.
 > If I improve, I repeat.
-</pre>       
+</pre>      
 
 </td>
 </tr>
 </table>
-
 
 </details>
 
