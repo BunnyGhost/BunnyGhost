@@ -405,9 +405,9 @@ Status
 </div>
 
 ---
-
+<!--
 <img src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%"/>
-
+ -->
 
  <div align="center">
 
