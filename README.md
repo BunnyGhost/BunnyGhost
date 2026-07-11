@@ -267,7 +267,7 @@ Phase....: offensive_ops
 
 ## `[ABOUT ME]`
 <details>
-<summary align="center"><b><code>> cat /home/bunny/about_me.txt — [ expand ]</code></b></summary>
+<summary align="center"><b><code>> cat /home/bunny/about_me.json — [ expand ]</code></b></summary>
 <br>
 
 
