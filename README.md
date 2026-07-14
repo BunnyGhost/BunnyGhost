@@ -90,7 +90,7 @@ Request timeout for icmp_seq 0 — too busy hacking.
 <!-- ══════════ ARSENAL ══════════ -->
 <div align="center">
 
-## `[ ⚔️  TECH STACK ]`
+## `[ ⚔️ TECH STACK ]`
 
 
 <details>
@@ -105,20 +105,27 @@ Request timeout for icmp_seq 0 — too busy hacking.
       <img src="https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Bash-0d0d0d?style=flat-square&logo=gnubash&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Lua-0d0d0d?style=flat-square&logo=lua&logoColor=39d353"/>
-      <img src="https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=csharp&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/C%23-0d0d0d?style=flat-square&logo=c-sharp&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=39d353"/>
       <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/C-0d0d0d?style=flat-square&logo=c&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/NASM_x86--64-0d0d0d?style=flat-square&logo=assemblyscript&logoColor=39d353"/>
     </td>
   </tr>
 
-  <tr>
+<tr>
     <td align="center"><sub><code>// WEB</code></sub></td>
     <td>
       <img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=39d353"/>
       <img src="https://img.shields.io/badge/Angular-0d0d0d?style=flat-square&logo=angular&logoColor=00ff41"/>
-      <img src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Vue.js-0d0d0d?style=flat-square&logo=vuedotjs&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Bootstrap-0d0d0d?style=flat-square&logo=bootstrap&logoColor=39d353"/>
     </td>
   </tr>
 
@@ -126,6 +133,7 @@ Request timeout for icmp_seq 0 — too busy hacking.
     <td align="center"><sub><code>// BACKEND</code></sub></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/REST_API-0d0d0d?style=flat-square&logo=fastapi&logoColor=00ff41"/>
     </td>
@@ -136,6 +144,8 @@ Request timeout for icmp_seq 0 — too busy hacking.
     <td>
       <img src="https://img.shields.io/badge/SQLite-0d0d0d?style=flat-square&logo=sqlite&logoColor=39d353"/>
       <img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=00ff41"/>
     </td>
   </tr>
 
@@ -149,6 +159,8 @@ Request timeout for icmp_seq 0 — too busy hacking.
       <img src="https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/Vercel-0d0d0d?style=flat-square&logo=vercel&logoColor=00ff41"/>
       <img src="https://img.shields.io/badge/NPM-0d0d0d?style=flat-square&logo=npm&logoColor=39d353"/>
+      <img src="https://custom-icon-badges.demolab.com/badge/AWS-0d0d0d?style=flat-square&logo=aws&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Networking-0d0d0d?style=flat-square&logo=cisco&logoColor=39d353"/>
     </td>
   </tr>
 
@@ -159,7 +171,7 @@ Request timeout for icmp_seq 0 — too busy hacking.
       <img src="https://img.shields.io/badge/GIMP-0d0d0d?style=flat-square&logo=gimp&logoColor=39d353"/>
     </td>
   </tr>
-  
+
   <tr>
     <td align="center"><sub><code>// ENVIRONMENT</code></sub></td>
     <td>
@@ -178,46 +190,81 @@ Request timeout for icmp_seq 0 — too busy hacking.
   <tr>
     <td align="center"><sub><code>// SECURITY</code></sub></td>
     <td>
-  <img src="https://img.shields.io/badge/Wireshark-0d0d0d?style=flat-square&logo=wireshark&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Burp_Suite-0d0d0d?style=flat-square&logo=burpsuite&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Nmap-0d0d0d?style=flat-square&logo=nmap&logoColor=39d353"/>
-<img src="https://img.shields.io/badge/Metasploit-0d0d0d?style=flat-square&logo=metasploit&logoColor=39d353"/>
-<img src="https://img.shields.io/badge/Hydra-0d0d0d?style=flat-square&logo=gnu&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/John_the_Ripper-0d0d0d?style=flat-square&logo=linux&logoColor=39d353"/>
-<img src="https://img.shields.io/badge/Gobuster-0d0d0d?style=flat-square&logo=go&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/SQLMap-0d0d0d?style=flat-square&logo=postgresql&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Nikto-0d0d0d?style=flat-square&logo=perl&logoColor=39d353"/>
-<img src="https://img.shields.io/badge/Hashcat-0d0d0d?style=flat-square&logo=amd&logoColor=00ff41"/>
-<img src="https://img.shields.io/badge/Netcat-0d0d0d?style=flat-square&logo=gnubash&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Wireshark-0d0d0d?style=flat-square&logo=wireshark&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-0d0d0d?style=flat-square&logo=burpsuite&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Nmap-0d0d0d?style=flat-square&logo=nmap&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Metasploit-0d0d0d?style=flat-square&logo=metasploit&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Hydra-0d0d0d?style=flat-square&logo=gnu&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/John_the_Ripper-0d0d0d?style=flat-square&logo=linux&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Gobuster-0d0d0d?style=flat-square&logo=go&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/SQLMap-0d0d0d?style=flat-square&logo=owasp&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Nikto-0d0d0d?style=flat-square&logo=perl&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Hashcat-0d0d0d?style=flat-square&logo=amd&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Netcat-0d0d0d?style=flat-square&logo=gnubash&logoColor=39d353"/>
     </td>
   </tr>
 </table>
 
-
 ### `// SKILL TREE`
 
-![OSINT](https://img.shields.io/badge/OSINT-Learning-0d0d0d?style=flat-square&logo=duckduckgo&logoColor=00ff41)
-![Network Recon](https://img.shields.io/badge/Network_Recon-Learning-0d0d0d?style=flat-square&logo=wireshark&logoColor=39d353)
-![WiFi Hacking](https://img.shields.io/badge/WiFi_Hacking-Practicing-0d0d0d?style=flat-square&logo=cisco&logoColor=00ff41)
-![Social Engineering](https://img.shields.io/badge/Social_Engineering-Practicing-0d0d0d?style=flat-square&logo=protonmail&logoColor=39d353)
-![Web Exploitation](https://img.shields.io/badge/Web_Exploitation-Practicing-0d0d0d?style=flat-square&logo=owasp&logoColor=00ff41)
-![SQLi](https://img.shields.io/badge/SQL_Injection-Practicing-0d0d0d?style=flat-square&logo=mysql&logoColor=39d353)
-![XSS](https://img.shields.io/badge/XSS-Practicing-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41)
-![Linux PrivEsc](https://img.shields.io/badge/Linux_PrivEsc-Practicing-0d0d0d?style=flat-square&logo=linux&logoColor=39d353)
-![Active Directory](https://img.shields.io/badge/Active_Directory-Practicing-0d0d0d?style=flat-square&logo=windows&logoColor=00ff41)
-![Passwd Cracking](https://img.shields.io/badge/Password_Cracking-Practicing-0d0d0d?style=flat-square&logo=kalilinux&logoColor=39d353)
-![Cloud Security](https://img.shields.io/badge/Cloud_Security-Studying-0d0d0d?style=flat-square&logo=amazonwebservices&logoColor=00ff41)
-![Rev Eng](https://img.shields.io/badge/Rev_Engineering-Studying-0d0d0d?style=flat-square&logo=webassembly&logoColor=39d353)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-Learning-0d0d0d?style=flat-square&logo=c&logoColor=00ff41)
-![Crypto](https://img.shields.io/badge/Cryptography-Learning-0d0d0d?style=flat-square&logo=gnupg&logoColor=39d353)
-![Stego](https://img.shields.io/badge/Steganography-Learning-0d0d0d?style=flat-square&logo=gimp&logoColor=00ff41)
-![Forensics](https://img.shields.io/badge/Forensics-Learning-0d0d0d?style=flat-square&logo=elastic&logoColor=39d353)
-![Python](https://img.shields.io/badge/Python_Scripting-Practicing-0d0d0d?style=flat-square&logo=python&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash_Scripting-Practicing-0d0d0d?style=flat-square&logo=gnubash&logoColor=39d353)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00ff41)
-![CTF](https://img.shields.io/badge/CTF-Learning-0d0d0d?style=flat-square&logo=hackthebox&logoColor=9FEF00)
+<table width="100%">
+  <tr>
+    <td align="center" width="150px"><sub><code>// OFFENSIVE</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Web_Exploitation-0d0d0d?style=flat-square&logo=owasp&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/SQL_Injection-0d0d0d?style=flat-square&logo=postgresql&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/XSS-0d0d0d?style=flat-square&logo=javascript&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Linux_PrivEsc-0d0d0d?style=flat-square&logo=linux&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Active_Directory-0d0d0d?style=flat-square&logo=okta&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Password_Cracking-0d0d0d?style=flat-square&logo=openssl&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Buffer_Overflow-0d0d0d?style=flat-square&logo=gnu&logoColor=00ff41"/>
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center"><sub><code>// RECON & INTEL</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/OSINT-0d0d0d?style=flat-square&logo=duckduckgo&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Network_Recon-0d0d0d?style=flat-square&logo=wireshark&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/WiFi_Hacking-0d0d0d?style=flat-square&logo=cisco&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Social_Engineering-0d0d0d?style=flat-square&logo=protonmail&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Footprinting-0d0d0d?style=flat-square&logo=google&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Phishing_Simulation-0d0d0d?style=flat-square&logo=gmail&logoColor=39d353"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><sub><code>// DEEP SYSTEMS</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Reverse_Engineering-0d0d0d?style=flat-square&logo=webassembly&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Malware_Analysis-0d0d0d?style=flat-square&logo=virustotal&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Cryptography-0d0d0d?style=flat-square&logo=letsencrypt&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Steganography-0d0d0d?style=flat-square&logo=gimp&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Digital_Forensics-0d0d0d?style=flat-square&logo=elastic&logoColor=00ff41"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><sub><code>// CLOUD & INFRA</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Cloud_Security-0d0d0d?style=flat-square&logo=cloudflare&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Container_Security-0d0d0d?style=flat-square&logo=docker&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/Network_Security-0d0d0d?style=flat-square&logo=fortinet&logoColor=00ff41"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><sub><code>// BATTLEGROUNDS</code></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/TryHackMe-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/Hack_The_Box-0d0d0d?style=flat-square&logo=hackthebox&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/CTF-0d0d0d?style=flat-square&logo=hackerone&logoColor=00ff41"/>
+      <img src="https://img.shields.io/badge/VulnHub-0d0d0d?style=flat-square&logo=virtualbox&logoColor=39d353"/>
+      <img src="https://img.shields.io/badge/CVE_Hunt-0d0d0d?style=flat-square&logo=kalilinux&logoColor=39d353"/>
+    </td>
+  </tr>
+</table>
+
 <!-- ══════════ CAPABILITY MATRIX ══════════ -->
 
 ### `[ 💀 SECURITY OPERATIONS — CAPABILITY MATRIX ]`
