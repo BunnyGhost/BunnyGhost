@@ -31,7 +31,7 @@ $ cat /etc/bunny.conf
   "user"      : "BunnyGhost",
   "pronouns"  : "He/Him",
   "country"   : "Brazil 🇧🇷",
-  "job"       : "Full Stack Web Dev",
+  "job"       : "DevOps",
   "bio"       : "Too curious to stop, too stubborn to quit.",
   "langs"     : ["pt-BR", "en", "ru"],
   "focus"     : ["Cybersecurity", "Bots", "UI/UX"],
