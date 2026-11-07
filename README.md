@@ -7,6 +7,7 @@
 </div>
 
 ---
+
 <table width="100%"><tr>
 <td width="62%" valign="top">
 
@@ -27,16 +28,16 @@ $ cat /etc/bunny.conf
 
 ```json
 {
-  "user": "BunnyGhost",
-  "pronouns": "He/Him",
-  "country": "Brazil 🇧🇷",
-  "job": "DevOps",
-  "bio": "Too curious to stop, too stubborn to quit.",
-  "langs": ["pt-BR", "en", "ru"],
-  "focus": ["Cybersecurity", "Bots", "UI/UX"],
-  "os": "Arch Linux btw 🐧",
-  "shell": "zsh + tmux + lvim",
-  "coffee": "CRITICAL_DEPENDENCY ☕"
+  "user"      : "BunnyGhost",
+  "pronouns"  : "He/Him",
+  "country"   : "Brazil 🇧🇷",
+  "job"       : "DevOps",
+  "bio"       : "Too curious to stop, too stubborn to quit.",
+  "langs"     : ["pt-BR", "en", "ru"],
+  "focus"     : ["Cybersecurity", "Bots", "UI/UX"],
+  "os"        : "Arch Linux btw 🐧",
+  "shell"     : "zsh + tmux + lvim",
+  "coffee"    : "CRITICAL_DEPENDENCY ☕"
 }
 ```
 
