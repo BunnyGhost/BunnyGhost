@@ -9,7 +9,7 @@
 ---
 
 <table width="100%"><tr>
-<td width="62%" valign="top">
+<td width="56%" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=00FF41&width=420&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80[bunny%40ghost]-%5B~%5D-%5BARCH%5D"/>
 
@@ -50,7 +50,7 @@ coffee_level: CRITICAL ☕
 </pre>
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="44%" valign="top" align="center">
 
 <a href="https://discord.com/users/830609133165608960">
   <img src="https://lanyard.cnrad.dev/api/830609133165608960?hideStatus=true&hideTag=true&borderRadius=0.75rem&showDisplayName=true" width="100%">
