@@ -8,7 +8,7 @@
 
 ---
 
-<table width="90%"><tr>
+<table width="80%"><tr>
 <td width="56%" valign="top">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=99999&color=00FF41&width=420&height=20&lines=%E2%94%8C%E2%94%80%E2%94%80[bunny%40ghost]-%5B~%5D-%5BARCH%5D"/>
