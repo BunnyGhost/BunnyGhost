@@ -312,7 +312,7 @@ Phase....: offensive_ops
 ---
 <!-- ══════════ ABOUT ME ══════════ -->
 
-## `[ 👾 ABOUT ME]`
+## `[ 👾 ABOUT ME ]`
 <details>
 <summary align="center"><b><code>> cat /home/bunny/about_me.json — [ expand ]</code></b></summary>
 <br>
