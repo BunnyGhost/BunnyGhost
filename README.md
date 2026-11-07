@@ -317,13 +317,14 @@ Phase....: offensive_ops
 <summary align="center"><b><code>> cat /home/bunny/about_me.json — [ expand ]</code></b></summary>
 <br>
 
-
 <div align="center">
+  <!--
 <img src="https://media.tenor.com/WrOlPBLlU9wAAAAM/anime-rikka-finger-spin.gif" width="150"/>
+  -->
   <table>
     <tr>
  <td>
-   
+
 ```json
 {
   "profile": {
@@ -426,7 +427,7 @@ Status
 
 ## `[ 📈 ACTIVITY GRAPH ]`
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BunnyGhost&theme=high-contrast&bg_color=0d0d0d&color=00ff41&line=39d353&point=00ff41&area_color=003300&area=true&hide_border=true&custom_title=BunnyGhost%20—%20Commit%20Activity)](https://github.com/BunnyGhost)
+![Activity Graph](https://readme-activity-graph.vercel.app/graph?username=BunnyGhost&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true&title_color=00ff41)
 
 ---
 
