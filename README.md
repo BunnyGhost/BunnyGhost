@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=200&section=header&text=BunnyGhost&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=//+root@github:~%23+whoami&descAlignY=58&descSize=16&animation=twinkling&fontFamily=JetBrains+Mono)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=30&lines=%5B+SYSTEM+INITIALIZED+%5D+...;%5B+ACCESS+GRANTED+%5D+Welcome%2C+visitor.;Building+%7C+Breaking+%7C+Learning+%7C+Repeating+%F0%9F%94%81;Student+%7C+Brazil+%F0%9F%87%A7%F0%9F%87%B7+%7C+Cybersecurity+Enthusiast;%24+sudo+rm+-rf+--no-preserve-root+ignorance)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=30&lines=%5B+SYSTEM+INITIALIZED+%5D+...;%5B+ACCESS+GRANTED+%5D+Welcome%2C+visitor.)
 
 </div>
 
@@ -312,7 +312,7 @@ Phase....: offensive_ops
 ---
 <!-- ══════════ ABOUT ME ══════════ -->
 
-## `[ABOUT ME]`
+## `[ 👾 ABOUT ME]`
 <details>
 <summary align="center"><b><code>> cat /home/bunny/about_me.json — [ expand ]</code></b></summary>
 <br>
